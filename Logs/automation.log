@@ -1,0 +1,120 @@
+13:14:05.663 [main] INFO  Test_cases.TC_Registration - ***Starting TC_Registration***
+13:14:06.199 [main] INFO  Test_cases.TC_Registration - clicked on  register
+13:14:06.742 [main] INFO  Test_cases.TC_Registration - clicked on  register
+13:14:12.283 [main] INFO  Test_cases.TC_Registration - class Test_cases.TC_Registration
+13:14:12.283 [main] INFO  Test_cases.TC_Registration - ***finished TC_Registration***
+16:29:59.855 [main] INFO  Test_cases.TC_Registration - ***Starting TC_Registration***
+16:30:00.093 [main] INFO  Test_cases.TC_Registration - clicked on  register
+16:30:00.525 [main] INFO  Test_cases.TC_Registration - clicked on  register
+16:30:05.575 [main] INFO  Test_cases.TC_Registration - class Test_cases.TC_Registration
+16:30:05.575 [main] INFO  Test_cases.TC_Registration - ***finished TC_Registration***
+16:47:39.794 [main] INFO  Test_cases.TC_Registration - ***Starting TC_Registration***
+16:47:40.021 [main] INFO  Test_cases.TC_Registration - clicked on  register
+16:47:40.641 [main] INFO  Test_cases.TC_Registration - clicked on  register
+16:47:46.237 [main] INFO  Test_cases.TC_Registration - class Test_cases.TC_Registration
+16:47:46.237 [main] INFO  Test_cases.TC_Registration - ***finished TC_Registration***
+16:58:04.697 [TestNG-tests-2] INFO  Test_cases.TC_Registration - ***Starting TC_Registration***
+16:58:04.872 [TestNG-tests-2] INFO  Test_cases.TC_Registration - clicked on  register
+16:58:05.283 [TestNG-tests-1] INFO  Test_cases.TC_Registration - ***Starting TC_Registration***
+16:58:05.609 [TestNG-tests-2] INFO  Test_cases.TC_Registration - clicked on  register
+16:58:05.720 [TestNG-tests-1] INFO  Test_cases.TC_Registration - clicked on  register
+16:58:06.370 [TestNG-tests-1] INFO  Test_cases.TC_Registration - clicked on  register
+16:58:09.325 [TestNG-tests-3] INFO  Test_cases.TC_Registration - ***Starting TC_Registration***
+16:58:09.600 [TestNG-tests-3] INFO  Test_cases.TC_Registration - clicked on  register
+16:58:10.328 [TestNG-tests-3] INFO  Test_cases.TC_Registration - clicked on  register
+16:58:11.718 [TestNG-tests-2] INFO  Test_cases.TC_Registration - class Test_cases.TC_Registration
+16:58:11.718 [TestNG-tests-2] INFO  Test_cases.TC_Registration - ***finished TC_Registration***
+16:58:11.988 [TestNG-tests-1] INFO  Test_cases.TC_Registration - class Test_cases.TC_Registration
+16:58:11.988 [TestNG-tests-1] INFO  Test_cases.TC_Registration - ***finished TC_Registration***
+16:58:15.451 [TestNG-tests-3] INFO  Test_cases.TC_Registration - class Test_cases.TC_Registration
+16:58:15.451 [TestNG-tests-3] INFO  Test_cases.TC_Registration - ***finished TC_Registration***
+12:26:59.877 [TestNG-tests-1] INFO  Test_cases.TC_Registration - ***Starting TC_Registration***
+12:26:59.957 [TestNG-tests-2] INFO  Test_cases.TC_Registration - ***Starting TC_Registration***
+12:27:02.828 [TestNG-tests-3] INFO  Test_cases.TC_Registration - ***Starting TC_Registration***
+12:27:40.591 [TestNG-tests-1] INFO  Test_cases.TC_Registration - ***Starting TC_Registration***
+12:27:41.865 [TestNG-tests-2] INFO  Test_cases.TC_Registration - ***Starting TC_Registration***
+12:27:44.507 [TestNG-tests-3] INFO  Test_cases.TC_Registration - ***Starting TC_Registration***
+12:28:26.822 [main] INFO  Test_cases.TC_Registration - ***Starting TC_Registration***
+14:12:44.488 [main] INFO  Test_cases.TC_Registration - ***Starting TC_Registration***
+14:14:26.763 [main] INFO  Test_cases.TC_Registration - ***Starting TC_Registration***
+15:44:34.669 [main] INFO  Test_cases.TC_Registration - ***Starting TC_Registration***
+15:44:35.031 [main] INFO  Test_cases.TC_Registration - clicked on  register
+15:44:35.688 [main] INFO  Test_cases.TC_Registration - clicked on  register
+15:44:40.973 [main] INFO  Test_cases.TC_Registration - class Test_cases.TC_Registration
+15:44:40.973 [main] INFO  Test_cases.TC_Registration - ***finished TC_Registration***
+15:47:11.401 [main] INFO  Test_cases.TC_Registration - ***Starting TC_Registration***
+15:47:11.622 [main] INFO  Test_cases.TC_Registration - clicked on  register
+15:47:11.975 [main] INFO  Test_cases.TC_Registration - clicked on  register
+15:49:31.002 [main] INFO  Test_cases.TC_Registration - ***Starting TC_Registration***
+15:49:31.285 [main] INFO  Test_cases.TC_Registration - clicked on  register
+15:49:31.611 [main] INFO  Test_cases.TC_Registration - clicked on  register
+15:50:39.753 [main] INFO  Test_cases.TC_Registration - ***Starting TC_Registration***
+15:50:40.034 [main] INFO  Test_cases.TC_Registration - clicked on  register
+15:50:40.410 [main] INFO  Test_cases.TC_Registration - clicked on  register
+15:58:10.265 [main] INFO  Test_cases.TC_Registration - ***Starting TC_Registration***
+15:58:10.485 [main] INFO  Test_cases.TC_Registration - clicked on  register
+15:58:10.842 [main] INFO  Test_cases.TC_Registration - clicked on  register
+16:11:38.414 [main] INFO  Test_cases.TC_Registration - ***Starting TC_Registration***
+16:11:38.725 [main] INFO  Test_cases.TC_Registration - clicked on  register
+16:11:39.117 [main] INFO  Test_cases.TC_Registration - clicked on  register
+16:13:24.188 [main] INFO  Test_cases.TC_Registration - ***Starting TC_Registration***
+16:13:24.407 [main] INFO  Test_cases.TC_Registration - clicked on  register
+16:13:24.814 [main] INFO  Test_cases.TC_Registration - clicked on  register
+16:20:30.839 [main] INFO  Test_cases.TC_Registration - ***Starting TC_Registration***
+16:20:30.942 [main] INFO  Test_cases.TC_Registration - clicked on  register
+16:20:31.293 [main] INFO  Test_cases.TC_Registration - clicked on  register
+16:50:16.068 [main] INFO  Test_cases.TC_Registration - ***  Starting TC_001_AccountRegistrationTest ***
+16:50:16.288 [main] INFO  Test_cases.TC_Registration - Clicked on My account link
+16:50:16.843 [main] INFO  Test_cases.TC_Registration - Clicked on register link
+16:50:16.845 [main] INFO  Test_cases.TC_Registration - Providing customer data
+16:50:19.990 [main] INFO  Test_cases.TC_Registration - Clicked on continue
+16:50:20.024 [main] INFO  Test_cases.TC_Registration - Validating expected message
+16:50:20.028 [main] INFO  Test_cases.TC_Registration - ***  Finished TC_001_AccountRegistrationTest ***
+16:51:29.087 [main] INFO  Test_cases.TC_Registration - ***  Starting TC_001_AccountRegistrationTest ***
+16:51:29.376 [main] INFO  Test_cases.TC_Registration - Clicked on My account link
+16:51:29.749 [main] INFO  Test_cases.TC_Registration - Clicked on register link
+16:51:29.751 [main] INFO  Test_cases.TC_Registration - Providing customer data
+16:51:32.731 [main] INFO  Test_cases.TC_Registration - Clicked on continue
+16:51:32.767 [main] INFO  Test_cases.TC_Registration - Validating expected message
+10:48:56.732 [main] INFO  Test_cases.TC_Registration - ***  Starting TC_001_AccountRegistrationTest ***
+10:48:57.272 [main] INFO  Test_cases.TC_Registration - Clicked on My account link
+10:48:58.226 [main] INFO  Test_cases.TC_Registration - Clicked on register link
+10:48:58.229 [main] INFO  Test_cases.TC_Registration - Providing customer data
+10:49:01.992 [main] INFO  Test_cases.TC_Registration - Clicked on continue
+10:49:02.053 [main] INFO  Test_cases.TC_Registration - Validating expected message
+17:00:34.947 [main] INFO  Test_cases.TC_loginPage - Clicked on My account link
+17:06:57.969 [main] INFO  Test_cases.TC_loginPage - Clicked on My account link
+17:06:58.375 [main] INFO  Test_cases.TC_loginPage - Clicked on login link
+17:06:58.573 [main] INFO  Test_cases.TC_loginPage - email entered
+17:06:58.670 [main] INFO  Test_cases.TC_loginPage - password entered
+17:09:19.474 [main] INFO  Test_cases.TC_loginPage - Clicked on My account link
+17:09:19.941 [main] INFO  Test_cases.TC_loginPage - Clicked on login link
+17:09:20.130 [main] INFO  Test_cases.TC_loginPage - email entered
+17:09:20.225 [main] INFO  Test_cases.TC_loginPage - password entered
+17:09:20.620 [main] INFO  Test_cases.TC_loginPage - login
+17:09:45.620 [main] INFO  Test_cases.TC_loginPage - Clicked on My account link
+17:09:46.062 [main] INFO  Test_cases.TC_loginPage - Clicked on login link
+17:09:46.245 [main] INFO  Test_cases.TC_loginPage - email entered
+17:09:46.339 [main] INFO  Test_cases.TC_loginPage - password entered
+17:09:46.725 [main] INFO  Test_cases.TC_loginPage - login
+17:13:26.872 [main] INFO  Test_cases.TC_loginPage - Clicked on My account link
+17:13:27.298 [main] INFO  Test_cases.TC_loginPage - Clicked on login link
+17:13:27.428 [main] INFO  Test_cases.TC_loginPage - email entered
+17:13:27.527 [main] INFO  Test_cases.TC_loginPage - password entered
+17:13:27.883 [main] INFO  Test_cases.TC_loginPage - login
+17:15:00.620 [main] INFO  Test_cases.TC_loginPage - Clicked on My account link
+17:15:01.057 [main] INFO  Test_cases.TC_loginPage - Clicked on login link
+17:15:01.185 [main] INFO  Test_cases.TC_loginPage - email entered
+17:15:01.287 [main] INFO  Test_cases.TC_loginPage - password entered
+17:15:01.685 [main] INFO  Test_cases.TC_loginPage - login
+17:17:34.356 [main] INFO  Test_cases.TC_loginPage - Clicked on My account link
+17:17:34.908 [main] INFO  Test_cases.TC_loginPage - Clicked on login link
+17:17:35.136 [main] INFO  Test_cases.TC_loginPage - email entered
+17:17:35.247 [main] INFO  Test_cases.TC_loginPage - password entered
+17:17:35.697 [main] INFO  Test_cases.TC_loginPage - login
+17:45:46.048 [main] INFO  Test_cases.TC_loginPage - Clicked on My account link
+17:45:46.328 [main] INFO  Test_cases.TC_loginPage - Clicked on login link
+17:45:46.461 [main] INFO  Test_cases.TC_loginPage - email entered
+17:45:46.525 [main] INFO  Test_cases.TC_loginPage - password entered
+17:45:47.077 [main] INFO  Test_cases.TC_loginPage - login
+17:45:47.121 [main] INFO  Test_cases.TC_loginPage - ***finished***
